@@ -52,7 +52,7 @@
 
 ## 📫 **Let's Connect!**  
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?logo=linkedin&style=for-the-badge)](https://linkedin.com/in/your-profile)  
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?logo=linkedin&style=for-the-badge)](https://linkedin.com/in/harsh-paliwal-)  
 [![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&style=for-the-badge)](https://github.com/420-Paliwal)  
 [![Portfolio](https://img.shields.io/badge/-Portfolio-FF4088?logo=portfolio&style=for-the-badge)](https://harsh-portfolio-k5zx.onrender.com)  
 
