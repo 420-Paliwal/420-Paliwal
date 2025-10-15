@@ -102,12 +102,6 @@
 ---
 
 
-## 🔥 GitHub Streak
-
-<p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=420-paliwal&theme=github-dark-blue&hide_border=true" alt="GitHub Streak" />
-</p>
-
 ## 📈 GitHub Profile Stats
 
 <div align="center">
