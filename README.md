@@ -1,70 +1,28 @@
-# 🚀 **Hey, I'm Harsh Paliwal!**  
-### **💻 Full-Stack Wizard | ☕ Coffee-Powered Coder | 🎮 Retro Tech Enthusiast**  
+Hi there 👋 I'm 420-paliwal
+Welcome to my GitHub! Here, you’ll find projects that showcase my journey in development, data structures, and algorithms. I'm constantly learning and aiming to make meaningful contributions to the tech community.
+[
+[
+[
 
-**⚡ Fun Fact:** I've solved **600+ coding problems** but still can't solve why my code works at 3 AM.  
+👯 Excited to collaborate on Full-Stack Web Development projects and Open-source contributions.
 
----
+🌱 Currently learning Backend Development with Node.js, React, Express, and strengthening programming fundamentals with Java.
 
-## 🛠 **My Tech Arsenal**  
+💻 Technologies I Work With
+GSSOC(24) Badges 🪶
+<div style='display:flex; align-items:center; gap: 10px;' align='center'><a href="https://gssoc.girlscript.tech/leaderboard"> <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/7.png" width="120px" height="120px" /> <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/6.png" width="115px" height="115px" /> <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/5.png" width="110px" height="110px" /> <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/4.png" width="105px" height="105px" /> <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/3.png" width="100px" height="100px" /> <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/2.png" width="100px" height="100px" /> <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/1.png" width="100px" height="100px" /> <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/Postman%20White.png" width="100px" height="100px" /> <img src="https://raw.githubusercontent.com/GSSoC24/Contributor/refs/heads/main/assets/Code%20Luminary.png" width="100px" height="100px" /> <img src="https://raw.githubusercontent.com/GSSoC24/Contributor/refs/heads/main/assets/Git%20Explorer.png" width="100px" height="100px" /> <img src="https://raw.githubusercontent.com/GSSoC24/Contributor/refs/heads/main/assets/Pull%20Expert.png" width="100px" height="100px" /> </a> </div>
+Holophin Badges - Hacktoberfest 2024
+[
 
-### **🌐 Frontend**  
-![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black&style=for-the-badge)  
-![Next.js](https://img.shields.io/badge/-Next.js-000000?logo=next.js&style=for-the-badge)  
-![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-38B2AC?logo=tailwind-css&style=for-the-badge)  
+🔥 GitHub Streak
+<p align="center"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=420-paliwal&theme=github-dark-blue&hide_border=true" alt="GitHub Streak" /> </p>
+📈 GitHub Profile Stats
+<div align="center"> <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=420-paliwal&theme=github_dark" /> <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=420-paliwal&theme=github_dark" /> </div>
+👯 Let's Collaborate
+I'm always open to collaborating on exciting full-stack web development projects or open-source contributions. Feel free to connect with me on LinkedIn or drop me an email.
 
-### ⚡ **Backend**  
-![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&style=for-the-badge)  
-![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&style=for-the-badge)  
-![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&style=for-the-badge)  
+📧 Reach Me Here
+[
+[
 
-### 🚢 **DevOps & Cloud**  
-![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&style=for-the-badge)  
-![AWS](https://img.shields.io/badge/-AWS-232F3E?logo=amazon-aws&style=for-the-badge)  
-![Stripe](https://img.shields.io/badge/-Stripe-008CDD?logo=stripe&style=for-the-badge)  
-
----
-
-## 🔥 **My Cool Projects**  
-
-### 🚕 **Cabora** (SaaS for Cab Booking)  
-- Built with **React, Node.js, AWS, Docker**  
-- Features: **Stripe Payments, Google Maps API, JWT Auth**  
-- Status: **Microservices in progress** (because why not complicate things?)  
-
-### 🛒 **QuickCart** (E-Commerce Platform)  
-- **Real-time chat** with Socket.io  
-- **Lazy loading** & optimized React UI  
-- Because online shopping > real shopping  
-
-### 🎨 **PromoPulse** (Landing Page)  
-- **Mobile-first** design  
-- Deployed on **Vercel**  
-- [Check it out!](https://landing-page-420-paliwals-projects.vercel.app)  
-
----
-
-## 🏆 **Achievements**  
-- **Top 10 rank** on GeeksforGeeks @ MIT ADT  
-- **NAAC presentation** selection for internship project  
-- **Professional coffee drinker** (unofficial certification)  
-
----
-
-## 📫 **Let's Connect!**  
-
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?logo=linkedin&style=for-the-badge)](https://linkedin.com/in/harsh-paliwal-)  
-[![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&style=for-the-badge)](https://github.com/420-Paliwal)  
-[![Portfolio](https://img.shields.io/badge/-Portfolio-FF4088?logo=portfolio&style=for-the-badge)](https://harsh-portfolio-k5zx.onrender.com)  
-
----
-
-### **💬 Developer Wisdom**  
-> *"First solve the problem. Then write the code."*  
-> *- John Johnson (probably)*  
-
----
-
-**🎉 Thanks for visiting!**  
-*May your code compile on the first try!* ✨  
-
-*(P.S. If it doesn't, just blame the framework.)*
+<p align="center"> <b>Thanks for visiting my profile! 🌟</b><br> <span>Feel free to explore my projects and reach out if you have questions! 🚀</span> </p> <p align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=60&section=footer&animation=fadeIn&fontColor=ffffff" alt="Footer" /> </p>
