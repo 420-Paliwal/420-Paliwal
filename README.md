@@ -47,6 +47,20 @@ I'm a passionate full-stack developer, with a love for problem solving, continuo
 
 ---
 
+
+## 🚀 Contributions & Certifications
+
+- 🌟 Active contributor in [GirlScript Summer of Code (GSSOC) 2025](https://gssoc.girlscript.tech) — proudly earned **GSSOC contributor badges!** 🏅  
+- 🛠️ Certified **Postman Student Expert** — sharpened API testing and automation skills.  
+
+## 🏆 Achievements
+
+- ✅ Solved **600+** coding problems on platforms like LeetCode & GeeksforGeeks.  
+- 🎯 Ranked **Top 10** in GeeksforGeeks contests @ MIT ADT University.  
+- 📢 Presented internship project at **NAAC** conference.  
+- 🌱 Passionate open-source contributor and continuous learner.
+
+
 ## 📊 GitHub Stats  
 
 <p align="center">  
@@ -58,7 +72,7 @@ I'm a passionate full-stack developer, with a love for problem solving, continuo
 
 ## 👯 Let's Connect!
 
-Find me on [LinkedIn](https://www.linkedin.com/in/harsh-paliwal-) or drop me an email at [harshpaliwal@example.com](mailto:harshpaliwal@example.com). I’m open to mentoring sessions, collaboration, and chat about tech!
+Find me on [LinkedIn](https://www.linkedin.com/in/harsh-paliwal-) or drop me an email at [harshpaliwal0420@gmail.com](mailto:harshpaliwal0420@gmail.com). I’m open to mentoring sessions, collaboration, and chat about tech!
 
 ---
 
