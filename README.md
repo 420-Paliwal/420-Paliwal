@@ -16,7 +16,7 @@
 
 ## 👨‍💻 About Me  
 
-- 🎓 Pursuing **MCA in Data Science** from **MIT ADT University, Pune**  
+- 🎓 Graduation **MCA in Data Science** from **MIT ADT University, Pune**  
 - 💼 Full Stack Developer Intern experience at **Prodigy Infotech**, **Intern Crowd**, and **CodSoft**  
 - 💡 Skilled in building scalable applications using the **MERN stack**  
 - ☁️ Exploring **Docker**, **AWS (ECS/ECR)**, and **Cloud Deployments**  
