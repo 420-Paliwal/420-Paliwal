@@ -101,6 +101,22 @@
 
 ---
 
+
+## 🔥 GitHub Streak
+
+<p align="center">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=420-paliwal&theme=github-dark-blue&hide_border=true" alt="GitHub Streak" />
+</p>
+
+## 📈 GitHub Profile Stats
+
+<div align="center">
+  <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=420-paliwal&theme=github_dark" />
+  <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=420-paliwal&theme=github_dark" />
+</div>
+
+
+
 ## 🤝 Connect with Me  
 
 <p align="center">
