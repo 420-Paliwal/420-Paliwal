@@ -1,4 +1,4 @@
-<h1 align="center">Hi there 👋 I'm Harsh Paliwal (420-paliwal)</h1>
+ <h1 align="center">Hi there 👋 I'm Harsh Paliwal (420-paliwal)</h1>
 
 <p align="center">
   <b>🚀 Full Stack Developer | Cloud & DevOps Enthusiast | MCA (Data Science) Student</b><br>
