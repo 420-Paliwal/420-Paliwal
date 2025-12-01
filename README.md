@@ -5,7 +5,7 @@
   Turning ideas into scalable and efficient web applications 💻
 </p>
 
-<p align="center">
+<p align="center"> 
   <a href="https://github.com/420-paliwal"><img src="https://komarev.com/ghpvc/?username=420-paliwal&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" /></a>
   <a href="https://www.linkedin.com/in/harsh-paliwal-"><img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white" /></a>
   <a href="mailto:harshpaliwal0420@gmail.com"><img src="https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white" /></a>
